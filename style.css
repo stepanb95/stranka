@@ -1,0 +1,212 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h6{ 
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    text-align: center;
+
+}
+body {
+    background-image: url(https://img.freepik.com/premium-vector/minimalist-clean-wavy-white-background-design_6689-121.jpg?w=2000);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+
+.navbar{
+    display: flex;
+    border: 2px solid black;
+    background-color: black;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 10px;
+    
+    
+  
+    
+    
+}
+.nadpis{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.navbarr{
+    display: flex;
+    border: 2px solid black;
+    background-color: black;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 10px;
+    
+    
+    
+}
+
+.text{
+    text-decoration: none;
+}
+
+
+.kontakt{
+    display: flex;
+    flex-direction: column;
+    margin-top: 300px;
+    justify-content: left ;
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 20px;
+    
+}
+
+h3{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+
+h4{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 800px;
+    margin-top: -1600px;
+
+}
+.obrazek{
+    border: 4px solid blue;
+    width: 450px;
+    height: 400px;
+    margin-top: 130px;
+
+    
+    
+    
+    
+}
+.obrazek1{
+    border: 4px solid blue;
+    width: 450px;
+    height: 400px;
+    margin-top: 20px;
+
+    
+    
+    
+    
+}
+
+.obrazek4{
+    border: 4px solid blue;
+    width: 450px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: -250px;
+}
+.obrazek5{
+    border: 4px solid blue;
+    width: 450px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: -350px;
+}
+.obrazek7{
+    border: 4px solid blue;
+    width: 450px;
+    height: 400px;
+    margin-top: -300px;
+    margin-left: 800px;
+
+    
+    
+    
+    
+}
+.lore1{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    margin-left: -2px;
+   
+}
+
+.rotate{
+    animation: rotation 2s infinite linear;
+    border-radius: 50%;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+
+.vitej{
+    width: 650px;
+    margin-left: 25px;
+    margin-top: -20px;
+    
+    
+}
+
+.kultura{
+    width: 650px;
+    margin-left: 25px;
+    margin-top: -20px;
+  
+    
+}
+
+.uličky{
+    width: 650px;
+    
+    margin-top: -20px;
+     
+}
+
+.lokace{
+    width: 650px;
+    
+    margin-top: -20px;
+     
+}
+
+
+
+
+.podstranka{
+    color: black;
+    margin-top: 100px;
+    width: 650px;
+    margin-left: 25px;
+    
+    
+}
+
+.odkaz{
+    text-decoration: none;
+}
